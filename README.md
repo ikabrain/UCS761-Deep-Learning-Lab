@@ -13,7 +13,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 
 ### 🧠 Topics Covered
 
-- [ ] [Assignment 1 - Design Perceptron to Learn Logic Gates](./DL_assign1.ipynb)
+- [x] [Assignment 1 - Design Perceptron to Learn Logic Gates](./DL_assign1.ipynb)
 
 ---
 
