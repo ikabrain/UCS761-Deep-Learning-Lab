@@ -2,7 +2,7 @@
 
 > **👤 Student:** Ikansh Mahajan  
 > **🪪 Roll No.:** 102303754  
-> **🧑🏽‍🏫 Instructor:** [Dr Vijay Kumari](https://csed.thapar.edu/facultydetails/MTcxOA==)
+> **🧑🏽‍🏫 Instructor:** [Dr Vijay Kumari](https://csed.thapar.edu/facultydetails/MTcxOA==)  
 > **🏫 Batch:** 3C53
 
 ---
@@ -14,6 +14,8 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 ### 🧠 Topics Covered
 
 - [x] [Assignment 1 - Design Perceptron to Learn Logic Gates](./DL_assign1.ipynb)
+- [x] [Assignment 2 - Logistic regression: Implement single layer perceptron for glass classification](./DL_assign2.ipynb)
+- [ ] [Assignment 3 - Linear regression: Implement multiple linear regression using perception](./DL_assign3.ipynb)
 
 ---
 
