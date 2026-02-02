@@ -17,6 +17,9 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - [x] [Assignment 2 - Logistic regression: Implement single layer perceptron for glass classification](./DL_assign2.ipynb)
 - [x] [Assignment 3 - Linear regression: Implement multiple linear regression using perception](./DL_assign3.ipynb)
 
+### 📑 References
+- Vizuara. (n.d.). Building Neural Networks from Scratch [YouTube playlist]. YouTube. Retrieved February 2, 2026, from https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu
+
 ---
 
 ### ⚠️ NOTE
