@@ -18,6 +18,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - [x] [Assignment 3 - Linear regression: Implement multiple linear regression using perception](./DL_assign3.ipynb)
 
 ### 📑 References
+- sentdex. (n.d.). Neural Networks from Scratch in Python [Playlist]. YouTube. Retrieved May 22, 2024, from https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
 - Vizuara. (n.d.). Building Neural Networks from Scratch [YouTube playlist]. YouTube. Retrieved February 2, 2026, from https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu
 
 ---
