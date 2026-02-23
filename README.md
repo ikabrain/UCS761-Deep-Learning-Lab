@@ -17,6 +17,8 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - [x] [Assignment 2 - Logistic regression: Implement single layer perceptron for glass classification](./DL_assign2.ipynb)
 - [x] [Assignment 3 - Linear regression: Implement multiple linear regression using perception](./DL_assign3.ipynb)
 - [ ] [Assignment 4 - Multilayer perceptron: Implement backpropagation. Predict the age of abalone from physical measurements](./DL_assign4.ipynb)
+- [ ] Assignment 5 - Designing different activation functions
+- [ ] Assignment 6 - Implementation of different optimizations
 
 ### 📑 References
 - sentdex. (n.d.). Neural Networks from Scratch in Python [Playlist]. YouTube. Retrieved May 22, 2024, from https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
