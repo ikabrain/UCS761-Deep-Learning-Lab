@@ -20,6 +20,10 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - [ ] Assignment 5 - Designing different activation functions
 - [ ] Assignment 6 - Implementation of different optimizations
 
+...
+
+- [ ] [Coursera Course 3 - Generative AI: Introduction and Applications](https://www.coursera.org/learn/generative-ai-introduction-and-applications?specialization=generative-ai-for-everyone) (Evaluation April 13th to 17th)
+- [ ] [Coursera Course 4 - Generative AI: Foundation Models and Platforms](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms?specialization=generative-ai-for-everyone) (Evaluation April 20th to 24th)
 ### 📑 References
 - sentdex. (n.d.). Neural Networks from Scratch in Python [Playlist]. YouTube. Retrieved May 22, 2024, from https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
 - Vizuara. (n.d.). Building Neural Networks from Scratch [YouTube playlist]. YouTube. Retrieved February 2, 2026, from https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu
