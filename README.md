@@ -27,7 +27,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 ...
 
 - [x] [Coursera Course 2 - Generative AI: Introduction and Applications](https://www.coursera.org/learn/generative-ai-introduction-and-applications?specialization=generative-ai-for-everyone) (Evaluation April 13th to 17th)
-- [ ] [Coursera Course 3 - Generative AI: Foundation Models and Platforms](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms?specialization=generative-ai-for-everyone) (Evaluation April 20th to 24th)
+- [x] [Coursera Course 3 - Generative AI: Foundation Models and Platforms](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms?specialization=generative-ai-for-everyone) (Evaluation April 20th to 24th)
 
 ### 📑 References
 - sentdex. (n.d.). Neural Networks from Scratch in Python [Playlist]. YouTube. Retrieved May 22, 2024, from https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
