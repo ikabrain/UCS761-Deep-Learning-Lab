@@ -22,7 +22,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 
 ...
 
-- [ ] [Coursera Course 1 - NVIDIA: Fundamentals of Deep Learning](https://www.coursera.org/learn/fundamentals-of-deep-learning/) (Deadline Feb. 20)
+- [x] [Coursera Course 1 - NVIDIA: Fundamentals of Deep Learning](https://www.coursera.org/learn/fundamentals-of-deep-learning/) (Deadline Feb. 20)
 
 ...
 
