@@ -16,7 +16,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - [x] [Assignment 1 - Design Perceptron to Learn Logic Gates](./DL_assign1.ipynb)
 - [x] [Assignment 2 - Logistic regression: Implement single layer perceptron for glass classification](./DL_assign2.ipynb)
 - [x] [Assignment 3 - Linear regression: Implement multiple linear regression using perception](./DL_assign3.ipynb)
-- [ ] [Assignment 4 - Multilayer perceptron: Implement backpropagation. Predict the age of abalone from physical measurements](./DL_assign4.ipynb)
+- [x] [Assignment 4 - Multilayer perceptron: Implement backpropagation. Predict the age of abalone from physical measurements](./DL_assign4.ipynb)
 - [ ] Assignment 5 - Designing different activation functions
 - [ ] Assignment 6 - Implementation of different optimizations
 
