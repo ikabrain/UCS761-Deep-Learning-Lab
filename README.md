@@ -17,7 +17,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - [x] [Assignment 2 - Logistic regression: Implement single layer perceptron for glass classification](./DL_assign2.ipynb)
 - [x] [Assignment 3 - Linear regression: Implement multiple linear regression using perception](./DL_assign3.ipynb)
 - [x] [Assignment 4 - Multilayer perceptron: Implement backpropagation. Predict the age of abalone from physical measurements](./DL_assign4.ipynb)
-- [ ] [Assignment 5 - Designing different activation functions](./DL_assign5.ipynb)
+- [x] [Assignment 5 - Designing different activation functions](./DL_assign5.ipynb)
 - [ ] Assignment 6 - Implementation of different optimizations
 
 - [x] [Coursera Course 1 - NVIDIA: Fundamentals of Deep Learning](https://www.coursera.org/learn/fundamentals-of-deep-learning/) (Deadline Feb. 20)
